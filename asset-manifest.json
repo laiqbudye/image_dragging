@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.3e04bd6c.chunk.css",
-    "main.js": "/myapp/static/js/main.7c17b702.chunk.js",
-    "main.js.map": "/myapp/static/js/main.7c17b702.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.7e5ab88f.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.7e5ab88f.js.map",
-    "static/js/2.486b626a.chunk.js": "/myapp/static/js/2.486b626a.chunk.js",
-    "static/js/2.486b626a.chunk.js.map": "/myapp/static/js/2.486b626a.chunk.js.map",
-    "static/js/3.1ca89e20.chunk.js": "/myapp/static/js/3.1ca89e20.chunk.js",
-    "static/js/3.1ca89e20.chunk.js.map": "/myapp/static/js/3.1ca89e20.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "static/css/main.3e04bd6c.chunk.css.map": "/myapp/static/css/main.3e04bd6c.chunk.css.map",
-    "static/js/2.486b626a.chunk.js.LICENSE.txt": "/myapp/static/js/2.486b626a.chunk.js.LICENSE.txt",
-    "static/media/team.f3ec58ba.jpg": "/myapp/static/media/team.f3ec58ba.jpg"
+    "main.css": "/image_dragging/static/css/main.3e04bd6c.chunk.css",
+    "main.js": "/image_dragging/static/js/main.7c17b702.chunk.js",
+    "main.js.map": "/image_dragging/static/js/main.7c17b702.chunk.js.map",
+    "runtime-main.js": "/image_dragging/static/js/runtime-main.88896769.js",
+    "runtime-main.js.map": "/image_dragging/static/js/runtime-main.88896769.js.map",
+    "static/js/2.486b626a.chunk.js": "/image_dragging/static/js/2.486b626a.chunk.js",
+    "static/js/2.486b626a.chunk.js.map": "/image_dragging/static/js/2.486b626a.chunk.js.map",
+    "static/js/3.1ca89e20.chunk.js": "/image_dragging/static/js/3.1ca89e20.chunk.js",
+    "static/js/3.1ca89e20.chunk.js.map": "/image_dragging/static/js/3.1ca89e20.chunk.js.map",
+    "index.html": "/image_dragging/index.html",
+    "static/css/main.3e04bd6c.chunk.css.map": "/image_dragging/static/css/main.3e04bd6c.chunk.css.map",
+    "static/js/2.486b626a.chunk.js.LICENSE.txt": "/image_dragging/static/js/2.486b626a.chunk.js.LICENSE.txt",
+    "static/media/team.f3ec58ba.jpg": "/image_dragging/static/media/team.f3ec58ba.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e5ab88f.js",
+    "static/js/runtime-main.88896769.js",
     "static/js/2.486b626a.chunk.js",
     "static/css/main.3e04bd6c.chunk.css",
     "static/js/main.7c17b702.chunk.js"
